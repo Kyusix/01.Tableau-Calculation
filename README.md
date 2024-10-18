@@ -6,7 +6,7 @@
 ![01 Prep Overview](https://github.com/user-attachments/assets/ed2b6977-7848-4fd0-bccd-83aaae9c98ab)
 - 계약시작일, 계약종료일 등 계약정보 내 필드항목 기반 매출정보 추정 데이터 전처리 프로세스 구축
   
-![Prep 데이터전처리](https://github.com/user-attachments/assets/38f41feb-4669-4115-895d-8236df1100f6)
+![Prep 데이터전처리](https://github.com/user-attachments/assets/275c4d6f-d1e8-4966-9ced-305c7c2da4cb)
 - 계약기간(시작/종료)을 통해 일수 산출 후 계약금액(수주)으로 일별금액 산출
 - [일수*일별금액 = 년월별매출]
 
