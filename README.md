@@ -1,7 +1,7 @@
 # ◈ Tableau Prepbuilder
 ### ■ 요약
-- 정보시스템에서 생산된 원천(RAW) 데이터 소스 조인, 유니온, 계산식을 통해 새 필드 생성 시 사용
-- 태블로 데스크탑 사용하여 대시보드 구성 전단계에서 전처리
+- Tableau Desktop 대시보드 구성 전 데이터 전처리
+- 정보시스템에서 생산된 원천(RAW) 데이터 소스 조인, 유니온, 계산식 통해 연산에 적합한 데이터구조 마련
 
 ![01 Prep Overview](https://github.com/user-attachments/assets/ed2b6977-7848-4fd0-bccd-83aaae9c98ab)
 - 계약시작일, 계약종료일 등 계약정보 내 필드항목 기반 매출정보 추정 데이터 전처리 프로세스 구축
