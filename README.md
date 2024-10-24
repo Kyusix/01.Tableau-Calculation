@@ -15,7 +15,7 @@
 ![신규갱신구분기본개념](https://github.com/user-attachments/assets/17a81a64-f720-46e6-99ac-eed1073bd0db)
 
 ### ■ 계약기간 기준일별 년월별 매출일수계산 개념도
-![기간별 계산식 적용개념도](https://github.com/user-attachments/assets/fe6cca5a-8bb6-4e1d-986d-4e2ab7caa106)
+![기간별 계산식 적용개념도](https://github.com/user-attachments/assets/1e9ba9e8-2387-49e2-9fb3-b962ff28b5a5)
 
 ![기간별 계산식 적용개념도2](https://github.com/user-attachments/assets/f83521be-1a46-4b01-bc19-08311035a065)
 
