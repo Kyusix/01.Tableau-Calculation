@@ -24,7 +24,7 @@
 ### ■ Prepbuilder 계산식 적용결과
 ![Prep 데이터전처리](https://github.com/user-attachments/assets/275c4d6f-d1e8-4966-9ced-305c7c2da4cb)
 - 계약기간(시작/종료)을 통해 일수 산출 후 계약금액 기초데이터 기반 일별매출 산출
-- [년월별 해당일수 * 일별매출 = 년월별매출] 계산으로 산출된 결과를 (.hyper) 출력하여 Tableau Desktop 통해 시각화
+- [년월별 해당일수 * 일별매출 = 년월별매출] 산출된 결과를 (.hyper) 출력하여 Tableau Desktop 시각화
 
 # ◈ Tableau DeskTop
 ### ■ 요약
