@@ -1,7 +1,7 @@
 # ◈ 구현목표
-![목표시스템의 역할](https://github.com/user-attachments/assets/93c319fe-7d8c-4ae4-a333-a64e43ab3e23)
+![목표시스템의 역할 JPG](https://github.com/user-attachments/assets/ec1fe4d6-0a9e-4e25-bf32-aa599ba0d684)
 
-![계산식구상기본개념](https://github.com/user-attachments/assets/91cce2e7-b4b2-4153-bb90-fd718b8ebeb9)
+![계산식구상기본개념](https://github.com/user-attachments/assets/bcabb27b-5abc-4116-b44a-9696b63bb5b3)
 
 # ◈ Tableau Prepbuilder
 ### ■ 요약
@@ -12,12 +12,12 @@
 - 계약시작일, 계약종료일 등 계약정보 내 필드항목 기반 매출정보 추정 데이터 전처리 프로세스 구축
 
 ### ■ 신규/갱신 사업분류별 년월별 일수계산 개념도
-![신규갱신구분기본개념](https://github.com/user-attachments/assets/17a81a64-f720-46e6-99ac-eed1073bd0db)
+![일수계산개념도](https://github.com/user-attachments/assets/47d759ff-46b6-41b3-8edc-b3df2051370e)
 
 ### ■ 계약기간 기준일별 년월별 매출일수계산 개념도
-![기간별 계산식 적용개념도](https://github.com/user-attachments/assets/1e9ba9e8-2387-49e2-9fb3-b962ff28b5a5)
+![기간별 계산식 적용개념도](https://github.com/user-attachments/assets/624362ef-2a0f-440e-95a6-be985c301351)
 
-![기간별 계산식 적용개념도2](https://github.com/user-attachments/assets/f83521be-1a46-4b01-bc19-08311035a065)
+![기간별 계산식 적용개념도2](https://github.com/user-attachments/assets/e92d6e82-fb2a-422f-8c19-12163ce99f3c)
 
 - 위 경우의 수 적용한 IF구문 전문 'tableau-calculation/01.prepbuilder/년월별일수계산' 소스첨부
 
