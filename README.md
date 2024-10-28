@@ -19,7 +19,7 @@
 
 ![기간별 계산식 적용개념도2](https://github.com/user-attachments/assets/e92d6e82-fb2a-422f-8c19-12163ce99f3c)
 
-- 위 경우의 수 적용한 IF구문 전문 'tableau-calculation/01.prepbuilder/년월별일수계산' 소스첨부
+- 위 경우의 수 적용한 IF구문 전문 '01.tableau-calculation/01.prepbuilder/년월별일수계산' 소스첨부
 
 ### ■ Prepbuilder 계산식 적용결과
 ![Prep 데이터전처리(비표)](https://github.com/user-attachments/assets/a7b3cc9f-735e-4f88-b840-1b2e9f9378bb)
@@ -30,7 +30,7 @@
 ### ■ 요약
 - 데이터 테이블 조인, 필드간 계산식을 통해 목표 데이터 추출/대시보드 구축
 - 다양한 필드(부서,담당,요율,금액 TopN, 사업분류 등) 조건 별 하이라이트 및 필터적용
-- 수주현황/매출현황/잔여현황 대시보드 계산식 전문 'tableau-calculation/02.Desktop/계산된필드' 소스첨부
+- 수주현황/매출현황/잔여현황 대시보드 계산식 전문 '01.tableau-calculation/02.Desktop/계산된필드' 소스첨부
 
 ### * 계약(수주) 현황 대시보드
 ![수주현황(비표)](https://github.com/user-attachments/assets/a2d33654-e7a3-4bea-9b82-1098b608f506)
